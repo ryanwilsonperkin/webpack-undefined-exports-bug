@@ -1,0 +1,19 @@
+{
+  "name": "webpack-undefined-exports-bug",
+  "version": "1.0.0",
+  "description": "Reproduce webpack undefined exports bug.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanwilsonperkin/webpack-undefined-exports-bug.git"
+  },
+  "author": "Ryan Wilson-Perkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanwilsonperkin/webpack-undefined-exports-bug/issues"
+  },
+  "homepage": "https://github.com/ryanwilsonperkin/webpack-undefined-exports-bug#readme"
+}
